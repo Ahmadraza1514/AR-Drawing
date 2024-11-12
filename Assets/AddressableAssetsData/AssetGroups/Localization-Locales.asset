@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Locales
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Locales
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 255e0e9673b2ef34f96762caed3a51f0
+  m_SerializeEntries:
+  - m_GUID: 13b92bec2f5f6eb4d90bed5a5288246d
+    m_Address: Arabic (ar)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bd2bbcd622587e4b991f14cf4d55dc9
+    m_Address: Korean (South Korea) (ko-KR)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7286f29467a9ecc4a87d01a5fb2292bb
+    m_Address: Spanish (es)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7876457a9d4faab4bbfb069d38e4c3b5
+    m_Address: Russian (ru)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b384db06c967f247b6bf54e568d750f
+    m_Address: Japanese (ja)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5e4e8aa57e42ab4697d79046a207efc
+    m_Address: Ukrainian (uk)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a832f8434031df94c981ecdb01000b7d
+    m_Address: Japanese (Japan) (ja-JP)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1bb7b3e1f6e40a4e8648d67207a67fc
+    m_Address: German (de)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d02e7c35679b82d4bbc6c221f24de8b6
+    m_Address: English (en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3859993347052a4b984a1254840f5e7
+    m_Address: Chinese (Simplified) (zh-Hans)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0fe3bb9c4b042441883cb0f5a465733
+    m_Address: Dutch (nl)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 7de8f4810c6065148968bdb38a986d3d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dc34e2ca30f189447990ec06978b19a7, type: 2}
+    - {fileID: 11400000, guid: f3436309025f2674e9bca5be36ed6b46, type: 2}

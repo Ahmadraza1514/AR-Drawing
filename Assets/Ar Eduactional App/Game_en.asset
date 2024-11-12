@@ -1,0 +1,731 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Game_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7c27af710c050684f9e705be1f011d61, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 188222021632
+    m_Localized: AR EDUCATION EXPLORER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958296236032
+    m_Localized: Welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1207672774656
+    m_Localized: Explore Subjects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12042289815552
+    m_Localized: Anatomy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12253066174464
+    m_Localized: Astronomy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12315812962304
+    m_Localized: Animals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21090108186624
+    m_Localized: Wonders Of World
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21373441810432
+    m_Localized: Countries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21505545609216
+    m_Localized: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21572050493440
+    m_Localized: Brain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21714589720576
+    m_Localized: The brain is the control center of the human body, responsible for
+      processing information, controlling movements, and regulating vital functions
+      such as breathing, heart rate, and digestion. It consists of different parts,
+      including the cerebrum, cerebellum, and brainstem, each performing specific
+      functions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21820755943424
+    m_Localized: Heart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26902302040064
+    m_Localized: Object Details Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28212078321664
+    m_Localized: PlaceObject
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28313022636032
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29069033349120
+    m_Localized: AR Interaction Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29919822749696
+    m_Localized: Object Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30113654120448
+    m_Localized: Start Quiz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30254041669632
+    m_Localized: ScreenShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1044289679794176
+    m_Localized: Quiz Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1044703275917312
+    m_Localized: Progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047358257766400
+    m_Localized: "The heart is a muscular organ that pumps blood throughout the body,
+      supplying oxygen and nutrients to tissues and removing carbon dioxide and waste
+      products. The heart consists of four chambers\u2014two atria and two ventricles\u2014that
+      work in coordination to ensure proper blood circulation."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047626496090112
+    m_Localized: Lungs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047725582327808
+    m_Localized: The lungs are a pair of organs that allow for gas exchange between
+      the air and the bloodstream. They take in oxygen and release carbon dioxide
+      through tiny air sacs called alveoli. This process is crucial for supplying
+      oxygen to the body and removing harmful carbon dioxide.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047805878083584
+    m_Localized: Liver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047873788059648
+    m_Localized: The liver is a large organ located in the upper abdomen that plays
+      a key role in metabolism, detoxification, and digestion. It processes nutrients
+      from the food we eat, produces bile to help digest fats, and removes toxins
+      from the bloodstream.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049928393039872
+    m_Localized: Quiz Result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050020231520256
+    m_Localized: Correct Answers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051405689823232
+    m_Localized: Kidneys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051517119897600
+    m_Localized: The kidneys are bean-shaped organs responsible for filtering waste
+      and excess fluids from the blood, forming urine. They help regulate electrolyte
+      levels, blood pressure, and maintain overall fluid balance in the body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051584098738176
+    m_Localized: Stomach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051723450294272
+    m_Localized: The stomach is a hollow, muscular organ that aids in the digestion
+      of food. It secretes digestive enzymes and acids that break down food into
+      smaller, absorbable components. The stomach also plays a role in regulating
+      the release of food into the intestines
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051818677772288
+    m_Localized: Intestines
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1065093830287360
+    m_Localized: Quiz Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1065376861921280
+    m_Localized: Wrong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1065744312311808
+    m_Localized: Correct
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1419995622416384
+    m_Localized: The intestines consist of the small intestine and large intestine,
+      playing a crucial role in digestion and nutrient absorption. The small intestine
+      is responsible for absorbing nutrients from food, while the large intestine
+      absorbs water and forms waste for elimination. Together, they help in processing
+      food and maintaining fluid balance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1420073527418880
+    m_Localized: Pancreas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1420137519915008
+    m_Localized: The pancreas is a gland located behind the stomach that plays a
+      dual role in the body. It produces digestive enzymes to aid in the breakdown
+      of food and secretes hormones like insulin and glucagon to regulate blood sugar
+      levels.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1425139571367936
+    m_Localized: Spleen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1425237076353024
+    m_Localized: Skull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1425365858263040
+    m_Localized: The spleen is an organ located in the upper left abdomen, responsible
+      for filtering blood and recycling iron from red blood cells. It also plays
+      a key role in the immune system by producing white blood cells and helping
+      fight infections.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1425411760726016
+    m_Localized: 'The skull is a complex structure composed of bones that encase
+      and protect the brain, as well as support the facial structure. It consists
+      of two main parts: the cranium, which protects the brain, and the facial bones,
+      which shape the face and support the jaw.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428816965148672
+    m_Localized: Earth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428865476468736
+    m_Localized: Moon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428911580258304
+    m_Localized: Sun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428940940386304
+    m_Localized: Mars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428963421855744
+    m_Localized: Jupiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428985668444160
+    m_Localized: Saturn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1429048549449728
+    m_Localized: Mercury
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1429090928697344
+    m_Localized: Venus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1429116195184640
+    m_Localized: Uranus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1429140559896576
+    m_Localized: Neptune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433458902048768
+    m_Localized: Earth is the third planet from the Sun and the only known celestial
+      body to support life. It has a unique atmosphere composed mainly of nitrogen
+      and oxygen, which helps sustain life. Earth's surface is about 70% water, with
+      landmasses making up the remaining 30%. It orbits the Sun in an elliptical
+      path and completes one rotation on its axis every 24 hours, resulting in day
+      and night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433524198973440
+    m_Localized: "The Moon is Earth's only natural satellite and is the fifth-largest
+      moon in the solar system. It is about one-quarter the size of Earth and has
+      no atmosphere, resulting in extreme temperature variations. The Moon orbits
+      Earth in approximately 27.3 days, which is the same time it takes to complete
+      one rotation on its axis, causing the same side to always face Earth. The Moon
+      plays a significant role in influencing Earth\u2019s tides due to its gravitational
+      pull."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433576342560768
+    m_Localized: The Sun is a massive ball of hot gases primarily composed of hydrogen
+      and helium. It is the center of our solar system, providing the necessary heat
+      and light for life on Earth. The Sun generates energy through nuclear fusion,
+      where hydrogen atoms combine to form helium, releasing a tremendous amount
+      of energy. It accounts for about 99.86% of the mass in our solar system, and
+      its gravitational pull keeps the planets in orbit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433679052677120
+    m_Localized: Mars, known as the "Red Planet," is the fourth planet from the Sun.
+      It gets its reddish appearance from iron oxide (rust) on its surface. Mars
+      has a thin atmosphere composed mostly of carbon dioxide, and it has the largest
+      volcano in the solar system, Olympus Mons. While it is much colder than Earth,
+      scientists are intrigued by the possibility that water once existed on its
+      surface, making it a key focus of exploration for signs of past life.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433811089367040
+    m_Localized: Jupiter is the largest planet in our solar system, known for its
+      massive size and iconic Great Red Spot, a giant storm larger than Earth. Jupiter
+      is a gas giant primarily composed of hydrogen and helium, and it has more than
+      75 moons, including four large ones called the Galilean moons. Despite its
+      size, a day on Jupiter lasts just under 10 hours due to its fast rotation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433844778016768
+    m_Localized: Saturn is the sixth planet from the Sun and is easily recognized
+      by its beautiful system of rings made of ice, rock, and dust. It is the second-largest
+      planet in the solar system and, like Jupiter, is a gas giant made primarily
+      of hydrogen and helium. Saturn has over 80 moons, with Titan being the largest
+      and one of the most intriguing due to its dense atmosphere and liquid lakes
+      of methane.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433875312549888
+    m_Localized: Mercury is the closest planet to the Sun and the smallest planet
+      in the solar system. It has no atmosphere to retain heat, resulting in extreme
+      temperature variations between day and night. Mercury has a rocky surface covered
+      with craters, similar to our Moon, and it completes a full orbit around the
+      Sun in just 88 Earth days, making its year the shortest in the solar system.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433901451452416
+    m_Localized: Venus is the second planet from the Sun and is similar in size to
+      Earth, often referred to as Earth's "sister planet." However, its environment
+      is extremely hostile, with thick clouds of sulfuric acid and a surface temperature
+      hot enough to melt lead, making it the hottest planet in the solar system.
+      Venus rotates in the opposite direction of most planets, meaning it has a very
+      long day, lasting about 243 Earth days.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433927389028352
+    m_Localized: Uranus is the seventh planet from the Sun and is unique because
+      it rotates on its side, making its axis nearly horizontal. It is classified
+      as an "ice giant" due to its cold atmosphere, which is mainly composed of hydrogen,
+      helium, and methane, giving it a pale blue color. Uranus has faint rings and
+      at least 27 moons. Its extreme axial tilt causes long periods of darkness or
+      sunlight at its poles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1433947085479936
+    m_Localized: Neptune is the eighth and farthest planet from the Sun in our solar
+      system. Like Uranus, it is classified as an "ice giant" due to its cold, dense
+      atmosphere. Neptune has a deep blue color due to methane in its atmosphere
+      and is known for having the strongest winds in the solar system, reaching speeds
+      of over 1,500 miles per hour. Neptune also has faint rings and 14 known moons,
+      the largest of which is Triton.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453252875395072
+    m_Localized: African elephant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453723895734272
+    m_Localized: Giant panda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453749363548160
+    m_Localized: 'Bengal tiger '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453779797417984
+    m_Localized: Bald eagle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453801507135488
+    m_Localized: Blue whale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453828682031104
+    m_Localized: Cheetah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453851436130304
+    m_Localized: Komodo dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453873179402240
+    m_Localized: Emperor penguin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453899351859200
+    m_Localized: White shark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1453924580597760
+    m_Localized: Polar bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455857546567680
+    m_Localized: The African elephant is the largest land animal on Earth. It is
+      known for its large ears, long trunk, and tusks made of ivory. Elephants are
+      highly intelligent and social animals, living in herds led by a matriarch.
+      They are herbivores, primarily feeding on grass, leaves, and fruit. African
+      elephants play a crucial role in their ecosystems by shaping the environment
+      around them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455955563257856
+    m_Localized: The giant panda is a bear native to the mountains of China and is
+      easily recognized by its black-and-white fur. Pandas are herbivores, with bamboo
+      making up 99% of their diet. Despite being classified as carnivores, they rarely
+      eat meat. Pandas are a symbol of conservation due to their endangered status,
+      but successful breeding programs have helped increase their population.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456029181681664
+    m_Localized: 'The Bengal tiger is a large and powerful predator native to the
+      forests and grasslands of India and Bangladesh. It is known for its striking
+      orange coat with black stripes. Bengal tigers are solitary animals and top
+      predators, hunting deer, wild boar, and other large mammals. Due to habitat
+      loss and poaching, the Bengal tiger is listed as an endangered species. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456123800985600
+    m_Localized: The bald eagle is a bird of prey found in North America and is the
+      national symbol of the United States. It is known for its white head, yellow
+      beak, and large wingspan. Bald eagles primarily feed on fish but will also
+      eat small mammals and birds. They are known for their impressive hunting skills
+      and their nests, called eyries, which are among the largest of any bird species.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456223763832832
+    m_Localized: The blue whale is the largest animal to have ever lived on Earth,
+      even bigger than any known dinosaur. These majestic marine mammals can grow
+      up to 100 feet long and weigh as much as 200 tons. Despite their enormous size,
+      blue whales feed primarily on tiny shrimp-like animals called krill, consuming
+      up to 4 tons of krill per day. Blue whales are known for their deep blue-gray
+      color and are found in oceans all over the world.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456321570807808
+    m_Localized: The cheetah is the fastest land animal, capable of running at speeds
+      of up to 60 to 70 miles per hour in short bursts. Native to parts of Africa
+      and Iran, cheetahs have a slender, lightweight body that helps them run incredibly
+      fast. They have distinctive black "tear marks" running from the corners of
+      their eyes down to their mouth, which help reduce glare and improve focus during
+      high-speed chases. Cheetahs primarily hunt antelope and other small to medium-sized
+      animals.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456434217230336
+    m_Localized: The Komodo dragon is the largest living species of lizard, found
+      on several Indonesian islands, including Komodo. These reptiles can grow up
+      to 10 feet in length and weigh over 150 pounds. Komodo dragons are carnivorous
+      and known for their powerful bite, which delivers venom that weakens their
+      prey. Despite their large size, Komodo dragons are skilled hunters and will
+      eat almost any animal they can catch, including deer, pigs, and even water
+      buffalo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456530782691328
+    m_Localized: 'The emperor penguin is the largest species of penguin, standing
+      up to 4 feet tall. They are native to Antarctica and are well adapted to the
+      cold, with a thick layer of blubber and tightly packed feathers to insulate
+      them. Emperor penguins are known for their unique breeding behavior, where
+      males incubate eggs on their feet under a flap of skin during the harsh Antarctic
+      winter while females hunt for food. They feed primarily on fish, squid, and
+      krill. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456630271582208
+    m_Localized: The great white shark is one of the largest predatory fish in the
+      ocean. Known for their sharp teeth and powerful jaws, great white sharks can
+      grow up to 20 feet in length. They are found in coastal waters all around the
+      world and feed primarily on seals, fish, and other marine animals. Despite
+      their fearsome reputation, great white sharks are often misunderstood and play
+      a vital role in maintaining the balance of marine ecosystems.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456737649958912
+    m_Localized: 'polar bear is the largest land carnivore, native to the Arctic
+      region. They are well adapted to cold environments, with thick fur and a layer
+      of fat to keep them warm. Polar bears are excellent swimmers and spend much
+      of their time on sea ice, hunting for seals, which are their primary food source.
+      Due to climate change and melting ice, polar bears are considered vulnerable
+      to extinction. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468450910773248
+    m_Localized: The Great Wall of China
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468481810210816
+    m_Localized: Taj Mahal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468505902292992
+    m_Localized: The Colosseum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468526836064256
+    m_Localized: Petra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468547170050048
+    m_Localized: Machu Picchu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468567172685824
+    m_Localized: Chichen Itza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468589519937536
+    m_Localized: The Pyramids of Giza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468611128991744
+    m_Localized: Gardens of Babylon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468629248385024
+    m_Localized: The Statue of Liberty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469138466250752
+    m_Localized: United States
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469160310185984
+    m_Localized: China
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469184033169408
+    m_Localized: France
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469209903636480
+    m_Localized: Japan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469231378472960
+    m_Localized: India
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469242954752000
+    m_Localized: Brazil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469273287958528
+    m_Localized: Pakistan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469314627018752
+    m_Localized: Saudi Arabia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469335833419776
+    m_Localized: Itlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469359891947520
+    m_Localized: Spain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469379286409216
+    m_Localized: Russia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469396298506240
+    m_Localized: Palestine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469999170985984
+    m_Localized: "The Great Wall of China is one of the most impressive architectural
+      feats in history. It stretches over 13,000 miles and was built to protect China
+      from invasions. Construction began in the 7th century BC, and it stands as
+      a symbol of China\u2019s strength and perseverance."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470026081640448
+    m_Localized: The Taj Mahal, located in Agra, India, is a white marble mausoleum
+      built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. Completed
+      in 1643, it is considered one of the most beautiful buildings in the world
+      and a symbol of eternal love.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470050739953664
+    m_Localized: 'The Colosseum in Rome, Italy, is an ancient amphitheater and one
+      of the greatest works of Roman engineering. It was used for gladiatorial contests
+      and public spectacles. Built around AD 70-80, the Colosseum could hold up to
+      80,000 spectators. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470073326280704
+    m_Localized: 'Petra is an ancient city carved into rose-red cliffs in Jordan.
+      It was the capital of the Nabataean Kingdom and flourished around 300 BC. Petra
+      is famous for its rock-cut architecture, including the iconic Treasury building. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470099700064256
+    m_Localized: Machu Picchu is an ancient Incan city located in the Andes Mountains
+      of Peru. Built in the 15th century, it was abandoned shortly after. The site
+      is known for its sophisticated dry-stone construction and terraced landscape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470122747764736
+    m_Localized: "Chichen Itza is a large pre-Columbian archaeological site located
+      in the Yucat\xE1n Peninsula of Mexico. It was built by the Maya civilization
+      and served as a major economic and religious center. The Pyramid of Kukulc\xE1n
+      is its most famous structure."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470146537857024
+    m_Localized: The Pyramids of Giza, located in Egypt, are one of the oldest and
+      most famous wonders of the ancient world. Built as tombs for the Pharaohs around
+      2500 BC, they showcase the engineering prowess of ancient Egyptians. The Great
+      Pyramid is the largest and most well-known of the three.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470170197925888
+    m_Localized: The Hanging Gardens of Babylon are one of the ancient Seven Wonders
+      of the World. Although their existence is debated, they were said to be a series
+      of terraced gardens located in the ancient city of Babylon, filled with exotic
+      plants and flowers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470192444514304
+    m_Localized: The Statue of Liberty is a colossal neoclassical sculpture located
+      on Liberty Island in New York Harbor, USA. It was a gift from France to the
+      United States, dedicated in 1886. The statue symbolizes freedom and democracy,
+      with Lady Liberty holding a torch and a tablet inscribed with the date of the
+      American Declaration of Independence.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470245728952320
+    m_Localized: 'The United States is a large and diverse country in North America,
+      known for its global influence in politics, economics, and culture. It has
+      50 states, including iconic regions such as New York, California, and Texas.
+      The U.S. is famous for its democratic government, technological innovations,
+      and landmarks like the Statue of Liberty and the Grand Canyon. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470269145751552
+    m_Localized: China is the most populous country in the world and is located in
+      East Asia. It has a rich cultural history dating back thousands of years and
+      is known for landmarks like the Great Wall of China and the Terracotta Army.
+      China has a powerful economy and is a global leader in manufacturing and technology.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470290553479168
+    m_Localized: France is a European country known for its rich culture, art, and
+      history. Paris, its capital, is a major center of fashion, art, and cuisine.
+      France is famous for landmarks like the Eiffel Tower, the Louvre Museum, and
+      its delicious cuisine. It has a strong influence on global culture and is one
+      of the founding members of the European Union.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470311759880192
+    m_Localized: "Japan is an island nation in East Asia known for its advanced technology,
+      rich history, and distinctive culture. Tokyo, its capital, is one of the world\u2019s
+      most populous cities. Japan is famous for its traditional arts, such as tea
+      ceremonies and calligraphy, as well as modern pop culture, including anime
+      and video games."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470329279488000
+    m_Localized: 'India is the second-most populous country in the world and is located
+      in South Asia. It is known for its diverse culture, history, and spiritual
+      heritage. India has iconic landmarks like the Taj Mahal and is the birthplace
+      of major religions such as Hinduism and Buddhism. Its economy is rapidly growing,
+      and it has a significant influence on global technology and culture. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470348736864256
+    m_Localized: Brazil is the largest country in South America and is known for
+      its vibrant culture, rainforests, and world-famous carnival. The Amazon Rainforest,
+      which is the largest tropical rainforest in the world, covers a significant
+      portion of Brazil. The country is also famous for its football (soccer) culture
+      and beautiful beaches.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470367862890496
+    m_Localized: Pakistan is a country in South Asia, bordered by India, China, Afghanistan,
+      and Iran. It is known for its rich history, cultural diversity, and mountainous
+      landscapes, including the Himalayas and the Karakoram Range. Islamabad is the
+      capital of Pakistan, and it is home to significant historical sites such as
+      the ancient city of Mohenjo-Daro and the Badshahi Mosque in Lahore.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470393267789824
+    m_Localized: Saudi Arabia is located in the Middle East and is known as the birthplace
+      of Islam. It is home to the two holiest cities in Islam, Mecca and Medina.
+      The country has vast deserts, including the Rub' al Khali, or Empty Quarter.
+      Saudi Arabia is a leading oil producer and has a monarchy with Riyadh as its
+      capital.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470416382599168
+    m_Localized: Italy is a European country known for its historical significance
+      and cultural contributions, particularly in art, architecture, and cuisine.
+      The capital city, Rome, was the heart of the Roman Empire. Italy is also famous
+      for its landmarks such as the Colosseum, the Leaning Tower of Pisa, and Venice's
+      canals. It is known for its contributions to fashion and its world-renowned
+      food, including pasta and pizza.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470434405523456
+    m_Localized: Spain is a country in southwestern Europe, known for its vibrant
+      culture, historical landmarks, and sunny Mediterranean coast. The capital is
+      Madrid, and other famous cities include Barcelona and Seville. Spain has a
+      rich history with influences from Roman, Moorish, and Christian civilizations.
+      It is famous for flamenco dancing, bullfighting, and beautiful architecture
+      like the Alhambra.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470452692688896
+    m_Localized: 'Russia is the largest country in the world, spanning Eastern Europe
+      and northern Asia. It is known for its vast landscapes, including forests,
+      tundra, and mountains. The capital city, Moscow, is home to the Kremlin and
+      Red Square. Russia has a rich cultural history with contributions to literature,
+      ballet, and classical music. It is also known for its space exploration achievements,
+      including launching the first human into space. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1470475878801408
+    m_Localized: Palestine is a region in Western Asia that has a rich cultural and
+      historical significance, with a heritage dating back thousands of years. It
+      encompasses the West Bank and Gaza Strip, both of which have been focal points
+      in the Israeli-Palestinian conflict. The city of Jerusalem holds profound religious
+      importance for Judaism, Christianity, and Islam. Despite ongoing political
+      challenges, the people of Palestine are known for their resilience and vibrant
+      culture, including traditional music, dance, and cuisine.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
