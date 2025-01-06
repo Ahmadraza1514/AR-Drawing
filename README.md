@@ -8,7 +8,7 @@
 
 ![POWER OF (10) 1 (1)](https://github.com/user-attachments/assets/0415dc9b-3942-491f-9680-72cc38928791)
 
-![WhatsApp Image 2025-01-06 at 7 29 48 PM](https://github.com/user-attachments/assets/6be6f9ee-8097-4b39-b817-3df28e8ca947)
+![WhatsApp Image 2025-01-06 at 7 29 48 PM](https://github.com/user-attachments/assets/6be6f9ee-8097-4b39-b817-3df28e8ca947)   ![WhatsApp Image 2025-01-06 at 7 30 21 PM](https://github.com/user-attachments/assets/6ff66a4d-b6b1-4cc0-93ec-fce3a5fb92c4)
 ---
 
 ## Features  
