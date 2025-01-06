@@ -1,13 +1,46 @@
-# AR-Drawing
-Designed an augmented reality Drawing application where users can create and interact with digital artwork in a 3D space. The app leverages AR technology to bring Drawing to life in the user's real-world environment.
+# AR-Drawing  
 
-**Technologies:**
-- Unity
-- C#
-- ARCore
-- AR Foundation
+## Overview  
+**AR-Drawing** is an innovative augmented reality application that allows users to create and interact with digital artwork in a 3D space. By leveraging AR technology, the app brings drawing to life within the user's real-world environment, providing a unique and immersive creative experience.  
+---
 
-**Challenges:**
-- Tracking the user's movements for realistic painting interaction
-- Optimizing performance for mobile AR
+![AR-Drawing Banner](https://github.com/user-attachments/assets/6b05518c-45c7-4a14-a051-e3cc10eca27f)  
+
+![POWER OF (10) 1 (1)](https://github.com/user-attachments/assets/0415dc9b-3942-491f-9680-72cc38928791)
+---
+
+## Features  
+### 1. Augmented Reality Drawing  
+- Draw directly in 3D space using intuitive controls.  
+- Create complex designs and watch them come to life in the real world.  
+
+### 2. Real-Time Interaction  
+- Interact with digital artwork using touch gestures and movement.  
+- Modify drawings in real-time, such as scaling, rotating, or erasing.  
+
+### 3. Seamless AR Integration  
+- Utilizes ARCore and AR Foundation for stable and accurate environment tracking.  
+- Allows drawing on real-world surfaces with precise positioning.  
+
+---
+
+## Technologies Used  
+- **Unity**: Game engine for app development and rendering.  
+- **C#**: Programming language for implementing functionality.  
+- **ARCore**: Google’s AR platform for environment tracking and AR capabilities.  
+- **AR Foundation**: Framework for building cross-platform AR experiences.  
+
+---
+
+## Challenges  
+1. **User Movement Tracking**  
+   - Ensured accurate tracking of user movements to align digital artwork with the physical environment.  
+
+2. **Mobile AR Performance Optimization**  
+   - Minimized performance overhead to ensure smooth operation on a variety of mobile devices.  
+
+---
+
+## License  
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
