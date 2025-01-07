@@ -1,7 +1,7 @@
 # AR-Drawing  
 
 ## Overview  
-**AR-Drawing** is an innovative augmented reality application that allows users to create and interact with digital artwork in a 3D space. By leveraging AR technology, the app brings drawing to life within the user's real-world environment, providing a unique and immersive creative experience.  
+AR-Drawing is an innovative augmented reality application that allows users to create and interact with digital artwork in a 3D space. By leveraging AR technology, the app brings drawing to life within the user's real-world environment, providing a unique and immersive creative experience.  
 ---
 
 ![AR-Drawing Banner](https://github.com/user-attachments/assets/6b05518c-45c7-4a14-a051-e3cc10eca27f)  
